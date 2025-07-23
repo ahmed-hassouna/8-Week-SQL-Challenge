@@ -1,5 +1,6 @@
 🍜 🍛 🍣 Case Study #1: Danny's Diner
 Case Study Questions
+---
 What is the total amount each customer spent at the restaurant?
 How many days has each customer visited the restaurant?
 What was the first item from the menu purchased by each customer?
